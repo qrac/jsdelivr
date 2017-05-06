@@ -3,6 +3,7 @@
   "name": "musubii",
   "repo": "qrac/musubii",
   "files": {
-    "basePath": "docs/"
+    "basePath": "docs/",
+    "include": ["css/musubii.css", "css/musubii.min.css"]
   }
 }
